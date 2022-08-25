@@ -25,9 +25,7 @@ export default function NavBar() {
   return (
     <div className="flex justify-between items-center w-full h-20 text-white fixed  bg-gray-900  px-4">
       <div>
-        <h1 className="scale-75 dark:text-black text-5xl font-logo ml-2">
-          Quizz!
-        </h1>
+        <h1 className="scale-75 text-white text-5xl font-logo ml-2">Quizz!</h1>
       </div>
 
       <ul className="md:flex">
